@@ -46,7 +46,7 @@ body{
     transition: .3s;
 }
 .navbar a:hover{
-    color: rgb(252, 161, 221);
+    color: rgb(255, 255, 255);
 }
 .home{
     position: relative;
